@@ -79,5 +79,11 @@ The main goal of this project was to:
    python cims_create_table.py
 3.Launch the management system:
    ```bash
-      python menu.py
----
+   python menu.py
+
+------
+
+### ⭐ Thank You for Visiting
+
+If you found my projects useful or inspiring, please give them a ⭐.  
+Let’s connect, collaborate, and build amazing things together!
